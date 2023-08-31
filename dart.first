@@ -1,0 +1,6 @@
+void main () {
+    var name = "Gladys Maina";
+    var description = "is a student in PLP AFRICA compassion ";
+    var phone = 0728057282;
+    print( name + description)
+}
